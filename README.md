@@ -78,13 +78,6 @@ LICENSE        Apache 2.0
 screenshot.png preview of the UI
 ```
 
-## Ideas / not done
-
-- ZIP download (would need a ZIP writer, currently the browser downloads files one by one)
-- grid layouts (e.g. 4×5 tiles) rather than a single row
-- cropping the source before splitting
-- a dark theme
-
 ## License
 
 Apache 2.0 — see `LICENSE`.
